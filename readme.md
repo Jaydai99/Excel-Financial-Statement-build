@@ -8,7 +8,9 @@ build aligned with my screenshots.
 
 ------------------------------------------------------------------------
 
-## 1. Data Preparation and Mapping (Screenshot 1)
+## 1. Data Preparation and Mapping
+
+![Data Preparation](1.png)
 
 -   **Objective:** Clean raw monthly data (Revenue, COGS, Opex, D&A,
     Interest, Taxes) and map into standardized financial statement
@@ -22,11 +24,11 @@ build aligned with my screenshots.
 - "Revenue - Supermarkets" → mapped into `Revenue`.\
 - "Cogs - Supermarkets" → mapped into `Cost of Goods Sold`.
 
-This ensures structured P&L creation.
-
 ------------------------------------------------------------------------
 
-## 2. Profit & Loss Forecast (Screenshot 2)
+## 2. Profit & Loss Forecast
+
+![Profit and Loss](2.png)
 
 -   Built **P&L forecast 2016--2021** with 3 scenarios: Best, Base,
     Worst.\
@@ -41,12 +43,11 @@ This ensures structured P&L creation.
     -   **EBIT = EBITDA -- D&A**
     -   **Net Income = EBT -- Taxes**
 
-**Excel Features:** scenario selection via drop-down with formula
-linkage.
-
 ------------------------------------------------------------------------
 
-## 3. Balance Sheet Forecast (Screenshot 3)
+## 3. Balance Sheet Forecast
+
+![Balance Sheet](3.png)
 
 -   Structured Assets & Liabilities forecast.\
 -   Main components:
@@ -61,7 +62,9 @@ linkage.
 
 ------------------------------------------------------------------------
 
-## 4. Fixed Asset Roll Forward -- PP&E (Screenshot 4)
+## 4. Fixed Asset Roll Forward -- PP&E
+
+![Fixed Asset Roll Forward](4.png)
 
 -   **Objective:** Forecast Capex & D&A to roll forward PP&E.\
 -   Method:
@@ -70,11 +73,11 @@ linkage.
     -   Applied averages for forecast years.\
 -   Linked PP&E ending balance directly into balance sheet.
 
-**Excel used:** relative referencing, % drivers, consistency checks.
-
 ------------------------------------------------------------------------
 
-## 5. Debt Roll Forward (Screenshot 5)
+## 5. Debt Roll Forward
+
+![Debt Roll Forward](5.png)
 
 -   Used **PMT formula logic** to forecast debt repayment.\
 -   Input:
@@ -89,7 +92,9 @@ linkage.
 
 ------------------------------------------------------------------------
 
-## 6. Equity Roll Forward (Screenshot 6)
+## 6. Equity Roll Forward
+
+![Equity Roll Forward](6.png)
 
 -   Forecasted equity considering:
     -   Beginning equity.\
@@ -99,7 +104,9 @@ linkage.
 
 ------------------------------------------------------------------------
 
-## 7. Cash Flow Statement (Screenshot 7)
+## 7. Cash Flow Statement
+
+![Cash Flow](7.png)
 
 -   Built **Indirect Cash Flow** starting with EBITDA.\
 -   Adjusted for:
