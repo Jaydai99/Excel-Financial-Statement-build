@@ -1,6 +1,6 @@
 # Financial Statement Build-Up and Forecasting in Excel
 
-This project demonstrates my ability to build up a full financial
+This project demonstrates my experience to build up a full financial
 statement forecast model in Excel using a combination of **financial &
 accounting knowledge** and advanced Excel functions like `SUMIF`,
 `XLOOKUP`, and logical structuring. Below I summarize the step-by-step
@@ -10,7 +10,7 @@ build aligned with my screenshots.
 
 ## 1. Data Preparation and Mapping
 
-![Data Preparation](1.png)
+![Data Preparation](image/1.png)
 
 -   **Objective:** Clean raw monthly data (Revenue, COGS, Opex, D&A,
     Interest, Taxes) and map into standardized financial statement
@@ -28,7 +28,7 @@ build aligned with my screenshots.
 
 ## 2. Profit & Loss Forecast
 
-![Profit and Loss](2.png)
+![Profit and Loss](image/2.png)
 
 -   Built **P&L forecast 2016--2021** with 3 scenarios: Best, Base,
     Worst.\
@@ -47,7 +47,7 @@ build aligned with my screenshots.
 
 ## 3. Balance Sheet Forecast
 
-![Balance Sheet](3.png)
+![Balance Sheet](image/3.png)
 
 -   Structured Assets & Liabilities forecast.\
 -   Main components:
@@ -64,7 +64,7 @@ build aligned with my screenshots.
 
 ## 4. Fixed Asset Roll Forward -- PP&E
 
-![Fixed Asset Roll Forward](4.png)
+![Fixed Asset Roll Forward](image/4.png)
 
 -   **Objective:** Forecast Capex & D&A to roll forward PP&E.\
 -   Method:
@@ -77,7 +77,7 @@ build aligned with my screenshots.
 
 ## 5. Debt Roll Forward
 
-![Debt Roll Forward](5.png)
+![Debt Roll Forward](image/5.png)
 
 -   Used **PMT formula logic** to forecast debt repayment.\
 -   Input:
@@ -94,7 +94,7 @@ build aligned with my screenshots.
 
 ## 6. Equity Roll Forward
 
-![Equity Roll Forward](6.png)
+![Equity Roll Forward](image/6.png)
 
 -   Forecasted equity considering:
     -   Beginning equity.\
@@ -106,7 +106,7 @@ build aligned with my screenshots.
 
 ## 7. Cash Flow Statement
 
-![Cash Flow](7.png)
+![Cash Flow](image/7.png)
 
 -   Built **Indirect Cash Flow** starting with EBITDA.\
 -   Adjusted for:
